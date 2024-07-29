@@ -3,15 +3,6 @@
 This repository contains the code for the paper "Automatic Detection and Visualization of Temporomandibular Joint Effusion with Deep Neural Network" by Yeon-Hee Lee, Seonggwang Jeon, Jong-Hyun Won, Q-Schick Auh, and Yung-Kyun Noh. The code includes data preprocessing, model training and testing, Grad-CAM heatmap generation, and activation visualization for the detection of TMJ effusion using deep learning techniques.
 
 ## Repository Structure
-
-- **Dataset/**
-  - `__init__.py`: Initialization file for the dataset module.
-  
-- **Figures/**
-  - `__init__.py`: Initialization file for the figures module.
-
-- **Model_for_effusion/**
-  - `__init__.py`: Initialization file for the model module.
   
 - **Mymodule/**
   - Contains custom modules and helper functions used throughout the project.
