@@ -43,9 +43,11 @@ This repository contains the code for the paper "Automatic Detection and Visuali
 
 ## Contact
 1. **For any questions or issues, please contact:**
+   
   ```Yeon-Hee Lee: omod0209@gmail.com
   ```Yung-Kyun Noh: nohyung@hanyang.ac.kr
   ```Seonggwang Jeon: qq22512@hanyang.ac.kr
 
 ## Acknowledgments
- 1. **This work was supported by the Department of Orofacial Pain and Oral Medicine, Kyung Hee University Dental Hospital, and the Department of Computer Science, Hanyang University.**
+
+  ```This work was supported by the Department of Orofacial Pain and Oral Medicine, Kyung Hee University Dental Hospital, and the Department of Computer Science, Hanyang University.**
