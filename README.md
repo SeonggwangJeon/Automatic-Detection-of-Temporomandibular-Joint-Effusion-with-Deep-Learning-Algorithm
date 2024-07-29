@@ -1,7 +1,5 @@
 # Automatic-Detection-of-Temporomandibular-Joint-Effusion-with-Deep-Learning-Algorithm
 
-This repository contains the code for the paper "Automatic Detection and Visualization of Temporomandibular Joint Effusion with Deep Neural Network" by Yeon-Hee Lee, Seonggwang Jeon, Jong-Hyun Won, Q-Schick Auh, and Yung-Kyun Noh. The code includes data preprocessing, model training and testing, Grad-CAM heatmap generation, and activation visualization for the detection of TMJ effusion using deep learning techniques.
-
 ## Repository Structure
 
 - **Dataset/**
@@ -38,5 +36,12 @@ This repository contains the code for the paper "Automatic Detection and Visuali
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/TMJ_effusion_detection.git
-   cd TMJ_effusion_detection
+   git clone https://github.com/SeonggwangJeon/Automatic-Detection-of-Temporomandibular-Joint-Effusion-with-Deep-Learning-Algorithm.git
+   cd Automatic-Detection-of-Temporomandibular-Joint-Effusion-with-Deep-Learning-Algorithm
+
+
+# Contact
+- For any questions or issues, please contact:
+  ```Yeon-Hee Lee: omod0209@gmail.com
+  ```Yung-Kyun Noh: nohyung@hanyang.ac.kr
+  ```Seonggwang Jeon: qq22512@hanyang.ac.kr
